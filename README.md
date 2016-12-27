@@ -1,5 +1,4 @@
 # hello_world
-For testing purposes
 
 Hi there!
 
